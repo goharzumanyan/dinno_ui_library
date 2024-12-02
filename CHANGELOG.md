@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/goharzumanyan/dinno_ui_library/compare/1.1.0...1.1.1) (2024-12-02)
+
+
+### Bug Fixes
+
+* package rename ([d32b1ea](https://github.com/goharzumanyan/dinno_ui_library/commit/d32b1ea115d12839669b030630d4018443dce457))
+
 # [1.1.0](https://github.com/goharzumanyan/dinno_ui_library/compare/1.0.0...1.1.0) (2024-12-02)
 
 
