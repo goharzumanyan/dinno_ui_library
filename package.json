@@ -1,8 +1,8 @@
 {
-  "homepage": "https://dinofrontend.github.io/dino_ui_library",
-  "name": "dino_ui_tools",
-  "version": "2.27.8",
-  "description": "UI library for Dino",
+  "homepage": "https://github.com/goharzumanyan/dinno_ui_library",
+  "name": "dinno_ui_library",
+  "version": "1.0.0",
+  "description": "UI library for Dinno",
   "private": false,
   "main": "index.js",
   "scripts": {
@@ -138,6 +138,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dinofrontend/dino_ui_library.git"
+    "url": "https://github.com/goharzumanyan/dinno_ui_library.git"
   }
 }
