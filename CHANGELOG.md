@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/goharzumanyan/dinno_ui_library/compare/1.0.0...1.1.0) (2024-12-02)
+
+
+### Features
+
+* test publish ([77eaeab](https://github.com/goharzumanyan/dinno_ui_library/commit/77eaeab5b08cd4e174d0f4628bd2d6eab828b2dc))
+
 # 1.0.0 (2024-12-02)
 
 
