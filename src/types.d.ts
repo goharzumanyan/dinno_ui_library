@@ -19,7 +19,6 @@ declare type TColor =
 
 declare type CallbackFnType = () => void
 
-
 declare type TIconSizes = {
   [size in TIconSize]: string
 }
